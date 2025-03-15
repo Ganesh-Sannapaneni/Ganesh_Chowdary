@@ -45,29 +45,3 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&lines=Mastering+Microservices+Architecture;AI+Driven+Backend+Optimizations;Enhancing+Cloud+Computing+with+AWS+%26+Firebase;Scaling+CI/CD+Pipelines+with+Kubernetes;Automating+Infrastructure+with+Terraform">
 </p>
 
-
-## 📚 Current Learning 🚀
-
-<div align="center">
-  <p><strong>🚀 Mastering Microservices</strong></p>
-  <p><strong>🤖 AI-Powered Backend Optimizations</strong></p>
-  <p><strong>☁️ Scaling Cloud Apps with AWS & Firebase</strong></p>
-  <p><strong>🔥 Automating CI/CD Pipelines with Kubernetes</strong></p>
-</div>
-
-
-## 📚 Current Learning 🚀
-
-<p align="center">
-  <marquee scrollamount="5" behavior="scroll" direction="left">
-    🏗️ Mastering Microservices | 🤖 AI-Powered Backend Optimizations | ☁️ Scaling Cloud Apps with AWS & Firebase | 🚀 Automating CI/CD Pipelines with Kubernetes | 🔥 Exploring Infrastructure as Code with Terraform
-  </marquee>
-</p>
-
-
-
-## 📚 Current Learning 🚀
-
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Currently%20Learning%20🚀&text2=AI%20Backends%20|%20Microservices%20|%20AWS%20|%20Kubernetes&width=800&height=100" />
-</p>
