@@ -1,3 +1,10 @@
+	•	🔭 I’m currently exploring AI-powered applications, focusing on microservices, cloud computing, and automation.
+	•	🌱 I’m passionate about backend development, DevOps, and AI-driven optimizations.
+	•	📝 I aim to write technical content and share insights on software engineering, cloud architectures, and system design.
+	•	🏆 I’m actively contributing to open-source projects and refining my GitHub profile to be more interactive & engaging.
+	•	🎯 My goal for this year: Build more AI-enhanced tools and scale cloud-native applications efficiently.
+	•	⚡ Fun fact: I love exploring new tech stacks, automating everything possible, and occasionally hunting for the perfect cup of coffee. ☕😎
+
 ## 👋 Welcome to My GitHub Profile!
 
 <p align="center">
