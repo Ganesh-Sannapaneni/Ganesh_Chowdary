@@ -42,5 +42,5 @@
 
 <!-- Typing Animation for Interactive Current Learning -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&lines=Mastering+Microservices+Architecture;AI+Driven+Backend+Optimizations;Enhancing+Cloud+Computing+with+AWS+%26+Firebase;Scaling+CI/CD+Pipelines+with+Kubernetes;Automating+Infrastructure+with+Terraform">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&lines=Mastering+Microservices+Architecture;AI+Driven+Backend+Optimizations; Enhancing+Cloud+Computing+with+AWS+%26+Firebase;Scaling+CI/CD+Pipelines+with+Kubernetes;Automating+Infrastructure+with+Terraform">
 </p>
