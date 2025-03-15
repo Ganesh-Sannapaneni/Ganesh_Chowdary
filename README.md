@@ -1,3 +1,11 @@
+
+
+## 👋 Welcome to My GitHub Profile!
+
+<p align="center">
+  <img src="https://github.com/Ganesh-Sannapaneni/Ganesh_Chowdary/blob/main/zx.png" alt="GitHub Banner" width="100%">
+</p>
+
 	•	🔭 I’m currently exploring AI-powered applications, focusing on microservices, cloud computing, and automation.
 	•	🌱 I’m passionate about backend development, DevOps, and AI-driven optimizations.
 	•	📝 I aim to write technical content and share insights on software engineering, cloud architectures, and system design.
@@ -5,11 +13,7 @@
 	•	🎯 My goal for this year: Build more AI-enhanced tools and scale cloud-native applications efficiently.
 	•	⚡ Fun fact: I love exploring new tech stacks, automating everything possible, and occasionally hunting for the perfect cup of coffee. ☕😎
 
-## 👋 Welcome to My GitHub Profile!
 
-<p align="center">
-  <img src="https://github.com/Ganesh-Sannapaneni/Ganesh_Chowdary/blob/main/zx.png" alt="GitHub Banner" width="100%">
-</p>
 
 ## 🚀 Tech Stack & Skills
 
