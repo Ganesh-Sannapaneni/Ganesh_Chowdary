@@ -1,9 +1,8 @@
 ## 👋 Welcome to My GitHub Profile!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ganesh-Sannapaneni/Ganesh_Chowdary/blob/main/zx.png" alt="GitHub Banner" width="100%">
+  <img src="https://github.com/Ganesh-Sannapaneni/Ganesh_Chowdary/blob/main/zx.png" alt="GitHub Banner" width="100%">
 </p>
-Ganesh-Sannapaneni/Ganesh_Chowdary/blob/main/zx.png
 
 ## 🚀 Tech Stack & Skills
 
