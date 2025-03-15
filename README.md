@@ -1,23 +1,25 @@
-# Ganesh_Chowdary
+## 🚀 Tech Stack & Skills
 
-![Hello World](https://raw.githubusercontent.com/yourusername/yourrepo/main/banner.png)
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
-![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?style=for-the-badge&logo=springboot)
+<!-- Tech Stack Animation GIF -->
+<img src="https://github.com/Kiran1689/kiran1689/raw/main/Skills_Animation_Dark.gif" width="400" alt="Tech Stack Animation">
+
+<!-- Tech Skills & Blog Posts -->
+<div>
+
+### 🛠️ My Tech Toolbox
+- **💻 Languages:** Python, JavaScript, Java, C++
+- **🌐 Web Development:** HTML, CSS, React, Node.js, Django
+- **🗄️ Databases:** MySQL, PostgreSQL, MongoDB
+- **⚙️ DevOps Tools:** Docker, Kubernetes, Jenkins, GitHub Actions
+- **☁️ Cloud Platforms:** AWS, Azure, Google Cloud
 
 
-## 🚀 Tech Stack & Tools
-![Tech Stack](https://github.com/Kiran1689/kiran1689/raw/main/Skills_Animation_Dark.gif)
+</div>
 
+</div>
 
-## 🚀 Tech Stack & Latest Blogs
-
-<table>
-<tr>
-<td>
-<img src="https://github.com/Kiran1689/kiran1689/raw/main/Skills_Animation_Dark.gif" width="400">
-</td>
 <td>
 
 ### 📚 Current Learning
@@ -25,12 +27,3 @@
 - 🤖 Exploring **AI-driven backend optimizations** using OpenAI & FastAPI.
 - 🌍 Strengthening **Cloud Computing** skills with **AWS (Lambda, S3, EC2) & Firebase**.
 - 🔥 Improving **CI/CD & DevOps automation** using **Docker & Kubernetes**.
-
-### ✍️ Latest Blog Posts
-- 😎 [Debug Like a Pro in 2025 🧑‍💻](https://yourblog.com/debugging-2025)
-- ✨ [Open-Source Hidden Gems v2 🤯](https://yourblog.com/open-source-tools)
-- 🫵 [You Should Try These Tools In Your Next Project](https://yourblog.com/dev-tools)
-
-</td>
-</tr>
-</table>
